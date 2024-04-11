@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#f69435",
+    "background_color" : "#f69435",
+    "display" : "browser",
+    "scope" : "/",
+    "start_url" : "/szop/",
+    "name" : "Szop",
+    "short_name" : "szp",
+    "description" : "lubie szopy",
+    "icons" : [
+        {
+            "src" : "./logo.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
